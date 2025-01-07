@@ -1,1 +1,1 @@
-# HeartDisease_Prediction
+Predicting heart disease is a vital healthcare task, aiming to detect patients at risk early and provide timely interventions. This project employed the XGBoost algorithm, which excels in classification tasks, to predict heart disease presence (1) or absence (0) from a variety of health metrics.
